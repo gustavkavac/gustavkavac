@@ -2,7 +2,10 @@
 - 👀 I’m interested in Engineering
 - 🌱 I’m currently learning Mechatronics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: 
+Gustavs.kavacs@gmail.com
++371 26111833
+  ...
 
 <!---
 gustavkavac/gustavkavac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
