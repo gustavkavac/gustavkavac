@@ -5,6 +5,7 @@
 - 📫 How to reach me: 
 Gustavs.kavacs@gmail.com
 +371 26111833
++45 50266241
   ...
 
 <!---
